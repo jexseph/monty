@@ -2,7 +2,7 @@
 
 /**
 * addnode - function that adds node to the head stack
-* @head: head of the stack
+* @head: head of the needed stack
 * @n: new value
 *
 * Return: nothing
