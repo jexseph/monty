@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
-* f_pall - function that prints everything in the stack
+* f_pall - function that prints all that is in the stack
 * @head: double head pointer to the stack
 * @counter: unused line count
 *
