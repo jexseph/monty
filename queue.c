@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
-* f_queue - function that prints the top of the queue
+* f_queue - function that prints the top of a provided queue
 * @head: head of queue
 * @counter: line count
 *
