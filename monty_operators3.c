@@ -2,7 +2,7 @@
 
 /**
 * f_pop - function that prints the top of the stack
-* @head: double head pointer to the stack
+* @head: double head pointer to the given stack
 * @counter: line count
 *
 * Return: nothing
